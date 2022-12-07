@@ -1,0 +1,9 @@
+{
+  "name": "valorant-patch-notes-extractor",
+  "version": "1.0.0",
+  "dependencies": {
+    "@extractus/article-extractor": "^7.2.7",
+    "chinese-conv": "^1.0.1"
+  },
+  "type": "module"
+}
